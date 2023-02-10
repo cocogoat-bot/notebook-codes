@@ -1,0 +1,20 @@
+{
+  "name": "notebook-codes",
+  "version": "1.0.0",
+  "description": "这里是[cocogoat-moe/notebook](https://github.com/cocogoat-moe/notebook)程序设计题等模块中的完整程序代码的存放目录，由来源位置链接至此。",
+  "main": "gen.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cocogoat-bot/notebook-codes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cocogoat-bot/notebook-codes/issues"
+  },
+  "homepage": "https://github.com/cocogoat-bot/notebook-codes#readme"
+}

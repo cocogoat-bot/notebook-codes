@@ -18,7 +18,7 @@ class List {
         }
     };
 
-    flattern(): String {
+    flatten(): String {
         if(isvoid next) then
             item
         else
